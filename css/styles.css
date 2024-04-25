@@ -34,7 +34,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #3D3669;
+  background: #002147;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -82,7 +82,7 @@ body {
 }
 
 .navbar-bg {
-  background-color: #3D3669;
+  background-color: #002147;
 }
 
 .cu-logo {
@@ -159,8 +159,8 @@ td {
 }
 
 .btn-primary {
-  background-color: #3D3669;
-  border-color: #3D3669;
+  background-color: #002147;
+  border-color: #002147;
 }
 
 .btn-primary:hover {
