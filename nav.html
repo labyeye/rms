@@ -1,0 +1,141 @@
+<div class="d-flex flex-column flex-md-row justify-content-between titlebar-bg">
+    <div class="hide_mobile">
+        <img src="../img/logo.png" class="cu-logo" />
+    </div>
+    <div class="text-center pl-md-2 pr-md-2">
+        <h2 style="font-size: 1.7rem" id="conference_name">
+            RMS 2024
+        </h2>
+        <!-- <h5>IEEE Conference Record #57730</h5> -->
+        <h4 style="font-size: 1rem">
+            <span id="conference_subtitle"></span>
+            <span id="conference_venue"></span>
+            December 26-30th, 2024 (In-person and Online)<br />
+            Venue: Dept of Sciences and Humanities, School of Engineering and Technology, CHRIST (Deemed
+            to be University), Kengeri Campus, Bangalore, India
+        </h4>
+    </div>
+    <div class="hide_mobile">
+        <img src="../img/rmslogo.png" alt="iee-cs-logo" />
+        
+    </div>
+</div>
+<nav id="navbar" class="navbar navbar-expand-lg navbar-dark navbar-bg sticky-top">
+    <button class="navbar-toggler mx-auto" type="button" data-toggle="collapse" data-target="#navbarToggler"
+        aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarToggler">
+        <div class="image_handler">
+            <div class="content">
+                <img src="../img/ieee_cs_bc.png" class="cu-logo" />
+            </div>
+            <div class="content">
+                <img src="../img/logo.png" class="cu-logo" />
+            </div>
+            <div class="content">
+                <img src="../img/Logo_New_IEEE_Computer_Society_CHRIST_University-Bangalore.png" alt="iee-cs-logo" />
+            </div>
+        </div>
+        <ul class="navbar-nav mx-auto">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="callForPapersDropdown" role="button"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                   Home
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a class="dropdown-item" href="./index.html">Home</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="#">Overview</a>
+                    </li>
+                    
+                    
+                    
+                </ul>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="callForPapersDropdown" role="button"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                   Registration
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a class="dropdown-item" href="#">Venue and Travel</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="#">Accomadation</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="#">Registration</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="#">FAQ</a>
+                    </li>
+                    
+                    
+                    
+                </ul>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Symposia and Organizers</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="callForPapersDropdown" role="button"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                   Speakers
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a class="dropdown-item" href="#">Plenary Speakers</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="#">Symposia Speakers</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="#">Contributiry Talks</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="#">Other Participants</a>
+                    </li>
+                    
+                    
+                    
+                </ul>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Schedule and Abstract</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Ramanujan Mathematical Society</a>
+            </li>
+            
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact Us</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+<div class="row row-no-margin titlebar-bg pt-2 pb-2">
+    <div class="col-12 text-center" id="change_marquee" style="width: 100%">
+        <strong>
+            All the accepted and presented papers will be submitted for possible
+            publication in the IEEE Xplore digital library.
+        </strong>
+    </div>
+</div>
+<script>
+    document.querySelectorAll("nav a[href]").forEach((element) => {
+        const curr_route = window.location.href.replaceAll(
+            window.location.origin,
+            ""
+        );
+        const href = element.getAttribute("href");
+        element.classList.remove("active");
+        console.log(href, curr_route);
+        if (href == curr_route) {
+            element.classList.add("active");
+        }
+    });
+</script>

@@ -1,0 +1,207 @@
+{
+    "name": "2024 IEEE International Conference on Contemporary Computing and Communications (InC4)",
+    "subtitle": "March 15-16, 2024 (In-person and Online)",
+    "venue": "Dept of CSE, School of Engineering and Technology, CHRIST (Deemed to be University), Kengeri Campus, Bangalore, India",
+    "marquee": [
+        "Welcome to the official page for InC4 2024 Conference",
+        "<a href='https://cmt3.research.microsoft.com/InC4conf2024' target='_blank'>The link for submission is active. Click here to submit your paper.</a>"
+    ],
+    "dates": [
+        {
+            "name": "Submission Deadline",
+            "date": {
+                "main": [
+                    "2023-12-31T00:00:00.000Z"
+                ],
+                "extended": null
+            }
+        },
+        {
+            "name": "Acceptance Notification",
+            "date": {
+                "main": [
+                    "2024-01-31T00:00:00.000Z"
+                ],
+                "extended": null
+            }
+        },
+        {
+            "name": "Early Bird Registration Deadline",
+            "date": {
+                "main": [
+                    "2024-02-10T00:00:00.000Z"
+                ],
+                "extended": null
+            }
+        },
+        {
+            "name": "Registration Hard Deadline",
+            "date": {
+                "main": [
+                    "2024-02-20T00:00:00.000Z"
+                ],
+                "extended": null
+            }
+        },
+        {
+            "name": "Camera Ready Submission",
+            "date": {
+                "main": [
+                    "2024-02-28T00:00:00.000Z"
+                ],
+                "extended": null
+            }
+        },
+        {
+            "name": "Conference Date",
+            "date": {
+                "main": [
+                    "2024-03-15T00:00:00.000Z",
+                    "2024-03-16T00:00:00.000Z"
+                ],
+                "extended": null
+            }
+        },
+        {
+            "name": "Pre-Conference Workshop",
+            "date": {
+                "main": [
+                    "2024-03-15T00:00:00.000Z",
+                    "2024-03-16T00:00:00.000Z"
+                ],
+                "extended": null
+            }
+        }
+    ],
+    "link": {
+        "active": true,
+        "link": "https://cmt3.research.microsoft.com/InC4conf2024"
+    },
+    "gallery": [
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00126.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00145.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00149.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00153.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00159.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00163.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00167.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00193.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00187.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00224.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00236.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00240.JPG"
+        },
+        {
+            "name": "InC4 Conference 2023",
+            "subtitle": "InC4 Conference 2023",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00234.JPG"
+        }
+    ],
+    "news": [
+        {
+            "title": "",
+            "subtitle": "",
+            "date": "",
+            "img": "./img/cu_ken_mov.mp4",
+            "link": "",
+            "linkText": "",
+            "type": ""
+        },
+        {
+            "title": "InC4 2024 - IEEE CS Bangalore flagship conference IEEE #60750",
+            "subtitle": "Conference Link",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00126.JPG",
+            "link": "https://conferences.ieee.org/conferences_events/conferences/conferencedetails/60750",
+            "linkText": "Open Conference Search at ieee.org",
+            "type": "News"
+        },
+        {
+            "title": "InC4 2023 Proceedings Link",
+            "subtitle": "Proceedings Link",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00224.JPG",
+            "link": "https://ieeexplore.ieee.org/xpl/conhome/10262404/proceeding",
+            "linkText": "To know more, open proceedings link",
+            "type": "News"
+        },
+        {
+            "title": "InC4 2023 - IEEE CS Bangalore flagship conference",
+            "subtitle": "InC4 2023 - Link",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00153.JPG",
+            "link": "https://archive-2023.ic4.co.in",
+            "linkText": "Open our 2023 website here to know more",
+            "type": "News"
+        },
+        {
+            "title": "InC4 2023 - IEEE CS Bangalore Pre-Workshop Conference",
+            "subtitle": "InC4 2023 - Link",
+            "date": "InC4 2023",
+            "img": "/img/images/DSC00153.JPG",
+            "link": "https://archive-2023.ic4.co.in",
+            "linkText": "Open our 2023 website here to know more",
+            "type": "News"
+        }
+    ]
+}
